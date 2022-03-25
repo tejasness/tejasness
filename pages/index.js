@@ -25,7 +25,7 @@ export default function Home() {
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
         <link href="https://fonts.googleapis.com/css2?family=Chango&family=Dela+Gothic+One&display=swap" rel="stylesheet" />
       </Head>
-      <div className="p-6 mx-auto w-max sm:mx-0 font-chango text-5xl text-slate-800 drop-shadow-lg">@tejasc0</div>
+      <div className="p-6 mx-auto w-max sm:mx-0 font-chango text-5xl text-slate-800 drop-shadow-md">@tejasc0</div>
       <div className="mt-10 mx-10 font-delaGothicOne text-2xl text-amber-900">My published articles on dev.to</div>
       <div className="grid lg:grid-cols-5 md:grid-cols-4 sm:grid-cols-2 grid-cols-1 divide-y-2 p-10">
         {articles.map((article) => {
