@@ -30,13 +30,13 @@ export default function Home() {
       <div className="grid lg:grid-cols-5 md:grid-cols-4 sm:grid-cols-2 grid-cols-1 divide-y-2 p-10">
         {articles.map((article) => {
           return (
-            <div key={article.slug} className="cursor-pointer lg:col-span-3 md:col-span-3 sm:col-span-2 font-medium md:px-14 py-8 grid sm:grid-cols-4 grid-cols-1">
-              <div>
-                <a href={article.url} target="_blank" rel="noreferrer"><img href={article.url} src={article.cover_image} className="rounded-lg sm:h-24 sm:w-48" /></a>
+            <div key={article.slug} className="cursor-pointer lg:col-span-3 md:col-span-3 sm:col-span-3 font-medium py-8 grid sm:grid-cols-4 grid-cols-1">
+              <div className="col-span-2">
+                <a href={article.url} target="_blank" rel="noreferrer"><img href={article.url} src={article.cover_image} className="rounded-lg sm:h-44" /></a>
 
               </div>
-              <div className="sm:col-span-3 ml-6 sm:my-auto mt-6">
-                <a href={article.url} target="_blank" rel="noreferrer">{article.title}</a>
+              <div className="sm:col-span-2 ml-6 sm:my-auto mt-6">
+                <a href={article.url} target="_blank" rel="noreferrer" className="text-lg">{article.title}</a>
               </div>
             </div>
           )
