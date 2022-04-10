@@ -5,7 +5,7 @@
 <h4>I contributed to</h4>
 
 - <a href="https://github.com/react-bootstrap/react-bootstrap" target="_blank">react-bootstrap/react-bootstrap</a><br>
-- <a href="https://github.com/react-bootstrap/react-bootstrap" target="_blank">github/feedback</a><br>
+- <a href="https://github.com/github/feedback" target="_blank">github/feedback</a><br>
 
 [![My Streak](https://github-readme-streak-stats.herokuapp.com?user=tejasc0&theme=dark)](https://git.io/streak-stats)
 [![My stats](https://github-readme-stats.vercel.app/api?username=tejasc0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
