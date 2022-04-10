@@ -1,6 +1,6 @@
 
 <h2>Hello there!</h2>
-<h3>Glad to see you here!</h3><br>
+<h3>Glad to see you here!</h3>
 
 <h4>I contributed to</h4>
 
