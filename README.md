@@ -2,7 +2,7 @@
 <h2>Hello there!</h2>
 <h3>Glad to see you here!</h3><br>
 
-<h3>I contributed to</h3><br>
+<h4>I contributed to</h4>
 
 - <a href="https://github.com/react-bootstrap/react-bootstrap" target="_blank">react-bootstrap/react-bootstrap</a><br>
 - <a href="https://github.com/react-bootstrap/react-bootstrap" target="_blank">github/feedback</a><br>
