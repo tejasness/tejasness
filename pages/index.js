@@ -6,7 +6,7 @@ import { useState } from 'react'
 export default function Home() {
   var articlesquery = {
     method: 'GET',
-    url: 'https://dev.to/api/articles?username=tejasc0'
+    url: 'https://dev.to/api/articles?username=tejasness'
   };
 
   const [articles, setArticles] = useState([]);
