@@ -20,7 +20,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Tejas Chaudhari</title>
-        <meta name="description" content="Portfolio" />
+        <meta name="description" content="Software Engineer" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
         <link href="https://fonts.googleapis.com/css2?family=Chango&family=Dela+Gothic+One&display=swap" rel="stylesheet" />
