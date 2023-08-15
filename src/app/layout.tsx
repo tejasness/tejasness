@@ -20,8 +20,14 @@ export default function RootLayout({
       <body className={`${inter.className} bg-white text-black dark:bg-gray-900 dark:selection:bg-gray-900 dark:text-white h-full selection:bg-gray-50`}>
         cidvusio
 
-vdjioivjewk
 
+ivni 3rio vsi
+g4igjb
+go4
+evo0s
+vso0o3
+kor3r
+ks3kr3t2
 
         <Navbar />
         {children}
