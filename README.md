@@ -3,10 +3,12 @@
 <h3>Glad to see you here!</h3>
 
 <h4>I contributed to</h4>
-
+- <a href="https://github.com/Manati-care">Manati</a><br>
 - <a href="https://github.com/react-bootstrap/react-bootstrap">react-bootstrap/react-bootstrap</a><br>
 - <a href="https://github.com/github/feedback">github/feedback</a><br>
-- <a href="https://github.com/robovice/.github">robovice/.github</a><br>
+- <a href="https://github.com/robovice/">Robovice</a><br>
+- <a href="https://github.com/teenternz/">Teenternz</a><br>
+- <a href="https://github.com/The-AS8-organization">The AS8 Organisation</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tejasness&theme=dark)](https://git.io/streak-stats)
 [![My stats](https://github-readme-stats.vercel.app/api?username=tejasness&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
