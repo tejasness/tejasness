@@ -8,7 +8,7 @@
 - <a href="https://github.com/github/feedback">github/feedback</a><br>
 - <a href="https://github.com/robovice/.github">robovice/.github</a><br>
 
-[![My Streak](https://github-readme-streak-stats.herokuapp.com?user=tejasness&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tejasness&theme=dark)](https://git.io/streak-stats)
 [![My stats](https://github-readme-stats.vercel.app/api?username=tejasness&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tejasness)
