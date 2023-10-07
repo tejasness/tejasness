@@ -2,8 +2,7 @@
 <h2>Hello there!</h2>
 <h3>Glad to see you here!</h3>
 
-<h4>I worked in</h4>
-- <a href="https://github.com/Manati-care">Manati</a><br>
+<h4>I contributed to</h4>
 - <a href="https://github.com/react-bootstrap/react-bootstrap">react-bootstrap/react-bootstrap</a><br>
 - <a href="https://github.com/github/feedback">github/feedback</a><br>
 - <a href="https://github.com/robovice/">Robovice</a><br>
